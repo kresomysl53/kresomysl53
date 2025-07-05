@@ -13,8 +13,6 @@
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Fullstack
-
 ### 🕵️‍♂️ Scraping / Automation
 ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -28,16 +26,12 @@
 ![PostCSS](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### ☁️ Hosting / Deploy / API routes
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  <span style="font-weight:bold; margin: 0 10px;">+</span>  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-
 ### 🧠 Embedded
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 SMT / Formal Methods
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Z3 Solver](https://img.shields.io/badge/z3_solver-333333?style=for-the-badge&logo=probot&logoColor=white)
 ![SMT-LIB](https://img.shields.io/badge/smt--lib-6E4D9B?style=for-the-badge&logo=gnubash&logoColor=white)
