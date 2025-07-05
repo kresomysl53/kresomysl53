@@ -31,6 +31,9 @@
 ### ☁️ Hosting / Deploy / API routes
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  +  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="[https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)" alt="Vercel" style="vertical-align:middle;" />
+<span style="font-weight:bold; margin: 0 10px;">+</span>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="vertical-align:middle;" />
 
 
 ### 🧠 Embedded
