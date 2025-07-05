@@ -27,9 +27,9 @@
 ![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-0298c3?style=for-the-badge&logo=hdl&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Z3 Solver](https://img.shields.io/badge/z3_solver-333333?style=for-the-badge&logo=probot&logoColor=white)
 ![SMT-LIB](https://img.shields.io/badge/smt--lib-6E4D9B?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
