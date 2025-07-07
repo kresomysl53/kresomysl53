@@ -26,6 +26,7 @@
 
 
 ![VHDL](https://img.shields.io/badge/VHDL-0298c3?style=for-the-badge&logo=hdl&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Z3 Solver](https://img.shields.io/badge/z3_solver-333333?style=for-the-badge&logo=probot&logoColor=white)
