@@ -3,6 +3,7 @@
 ![Puppeteer](https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-964B00?style=for-the-badge&logo=python&logoColor=white)
 
+![Astro](https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
