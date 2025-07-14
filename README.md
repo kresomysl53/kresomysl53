@@ -39,4 +39,4 @@
 ![Z3 Solver](https://img.shields.io/badge/z3_solver-333333?style=for-the-badge&logo=probot&logoColor=white)
 ![SMT-LIB](https://img.shields.io/badge/smt--lib-6E4D9B?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
